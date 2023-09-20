@@ -1,0 +1,5 @@
+<Simulation version="4.2.5">
+   <XMLScript Type="XMLScript">Simulation/colorbarSettings.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/colorbarSettings.py</PythonScript>
+   <Resource Type="Python">Simulation/colorbarSettingsSteppables.py</Resource>
+</Simulation>
